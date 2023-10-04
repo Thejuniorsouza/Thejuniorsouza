@@ -1,10 +1,10 @@
 ### Olá, sou Junior Souza 👋
-
+Redes para contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-souza-83896b210/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorsouzacmr@gmail.com)
 
 
-## Tecnologias que uso e/ou estudo atualmente:
+### Tecnologias que uso e/ou estudo atualmente:
 <div>
   <img align="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
